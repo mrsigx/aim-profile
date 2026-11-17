@@ -1,5 +1,7 @@
 # aim-profile
 
+> **Moved.** aim-profile now lives in the [Null Limit skills collection](https://github.com/mrsigx/skills/tree/main/skills/aim-profile). This repository is archived and no longer updated.
+
 Find the mouse sensitivity your hands already trust, then carry it into another game with every assumption written down.
 
 aim-profile is an agent skill for Claude Code and Codex, plus two small Rust tools with no dependencies:
